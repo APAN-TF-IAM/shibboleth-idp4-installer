@@ -18,7 +18,7 @@ function set_internal_variables {
     SECRETS_PROPERTIES=$ASSETS/idp/credentials/secrets.properties
     ACTIVITY_LOG=$INSTALL_BASE/shibboleth-idp4-installer/activity.log
 
-    GIT_REPO=https://github.com/ausaccessfed/shibboleth-idp4-installer.git
+    GIT_REPO=https://github.com/APAN-TF-IAM/shibboleth-idp4-installer.git
     GIT_BRANCH=master
 
     FR_TEST_REG=https://manager.test.aaf.edu.au/federationregistry/registration/idp
